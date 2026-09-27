@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703136997 source:c:\users\malindu dilshan\desktop\family\book shop\edit 21.12\bs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unistd.h>
+	<iomanip>
+	<algorithm>
+

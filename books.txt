@@ -1,0 +1,17 @@
+PK,Amir,Hindi,2012,500
+Sherlock Holmes,Konan Doil,Novel,1985,600
+Harry Potter,Rowling,Novel,2001,650
+Madolduwa,M.Wickramasinghe,Novel,2001,350
+Hath Pana,K.Munidasa,Short Story,1999,350
+Famous Five,Enid,Short Story,1985,450
+Kaliyugaya,M.Wickramasinghe,,1999,500
+Secreat Seven,Enid,Short Story,1999,450
+Harry Potter - 2,Rowling,Fantacy,2002,850
+Invisible Man,Abel,Short Story,2001,650
+Grade 6 General English,Dr. Strange,Educational,2005,550
+Grade 7 General English,Dr. Strange,Educational,2006,650
+Grade 8 Genaral English,Dr. Strange,Educational,2007,650
+Grade 9 Genaral English,Dr. Strange,Educational,2008,700
+Grade 10 Genaral English,Dr. Strange,Educational,2009,750
+Grade 11 Genaral English,Dr. Strange,Educational,2010,800
+Grade 6 Science,Dr. Nawariyan,Educational,2010,500
